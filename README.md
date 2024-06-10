@@ -50,18 +50,15 @@ python fraud_detection.py
 
 The script will:
 
-Load and preprocess the data
-
-Display data insights and visualizations
-
-Train and evaluate Random Forest and Logistic Regression models
-
-Output evaluation metrics and confusion matrices
+- Load and preprocess the data
+- Display data insights and visualizations
+- Train and evaluate Random Forest and Logistic Regression models
+- Output evaluation metrics and confusion matrices
 
 
 ## Results
 
-Random Forest Classifier:
+- Random Forest Classifier:
 
 Accuracy: 0.995
 
@@ -72,7 +69,7 @@ Recall: 0.76
 F1-Score: 0.85
 
 
-Logistic Regression:
+- Logistic Regression:
 
 Accuracy: 0.976
 
